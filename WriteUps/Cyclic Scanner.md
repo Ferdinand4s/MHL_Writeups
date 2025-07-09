@@ -7,7 +7,11 @@ The call to this function was located inside the handleMessage function, which a
 ![image_2025-07-08_18-31-18.png](../Screenshots/CyclicScanner/image_2025-07-08_18-31-18.png)
 To exploit this, we create a file.
 ![image_2025-07-08_18-25-56.png](../Screenshots/CyclicScanner/image_2025-07-08_18-25-56.png)
+
 And then activate the scanner.
+
 ![image_2025-07-08_18-26-05.png](../Screenshots/CyclicScanner/image_2025-07-08_18-26-05.png)
+
 From the log output, it is evident that the payload was executed.
+
 ![image_2025-07-08_18-26-14.png](../Screenshots/CyclicScanner/image_2025-07-08_18-26-14.png)
